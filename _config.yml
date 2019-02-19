@@ -15,11 +15,11 @@ author:  # change following line to your infomation.
   first_name: Behnam  # Be used at index page about me section.
   last_name: Samadi  # Be used at index page about me section.
   avatar: /static/assets/img/landing/behnam_avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
+  github_username: behnamsamadi  # Leave blank if you don't have now
+  linkedin_id: bsamadi # Leave blank if you don't have now
   facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
+  twitter_username: BehnamSamadi  # Leave blank if you don't have now
+  email: behnamsamadi27@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
