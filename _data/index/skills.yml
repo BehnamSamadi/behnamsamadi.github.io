@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Machine Learning, Motivation, Computer Vision, Graphical Models, Problem Solving, Python, Sleeping, Deep Learning
-percentage: 40, 35, 65, 80, 70, 90, 50, 70
+aspects: Computer Vision, Motivation, Graphical Models, Machine Learning, Problem Solving, Python, Sleeping, Deep Learning
+percentage: 80, 65, 55, 45, 70, 80, 50, 70
