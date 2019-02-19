@@ -18,13 +18,13 @@
     detail: Rahbin Sanaat Nasir
     i18n: company_b
   desc:
-    detail: I worked at Rahbin Sanaat Nasir as R&D Specialist
+    detail: I worked at Rahbin Sanaat Nasir as Research and Development Specialist
     i18n: company_b_desc
   date:
     detail: March. 2018
     i18n: company_b_date
   job:
-    detail: Research and Development Specialist
+    detail: R&D Specialist
     i18n: company_b_job
   icon: fa-plus-square
 
